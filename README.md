@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Roly
 
-Aspiring SOC Analyst with hands-on experience in threat detection, log analysis, and incident investigation through real-world simulations.
-
-Transitioning from IT support and logistics into cybersecurity, with a strong focus on blue team operations.
+Aspiring SOC Analyst with hands-on experience investigating real-world attack simulations, including SQL injection and LFI attacks. Skilled in log analysis, threat validation, and incident triage using SIEM-based workflows.
 
 ---
 
@@ -39,9 +37,9 @@ Hands-on investigation of simulated security incidents, including web attacks an
 - Log Analysis  
 
 ### Tools & Technologies
-- Linux (Command Line)  
-- SQL (Basic Querying)  
-- Python (Beginner)  
+- Linux  
+- SQL
+- Python
 - Microsoft Dynamics NAV / POS Systems  
 
 ---
